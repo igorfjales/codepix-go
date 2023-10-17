@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "github",
+    "govalidator",
+    "uuid"
+  ],
+  "cSpell.language": "pt,en,pt-BR",
+  "cSpell.enableFiletypes": [
+    "!asciidoc",
+    "!go"
+  ]
+}
